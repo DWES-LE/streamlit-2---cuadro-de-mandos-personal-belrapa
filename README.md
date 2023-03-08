@@ -49,3 +49,5 @@ Para poder arrancar al aplicacion, hayq ue ejcutar el comando streamlit run app.
 
 ## Publica la aplicación.
 Publica la aplicación en Streamlit Cloud, en Heroku o en el servicio que prefieras https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app
+
+Lo he publicado en https://belrapa-streamlit-2---cuadro-de-mandos-personal-belr-app-wm3rpo.streamlit.app/
